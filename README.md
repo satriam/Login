@@ -16,3 +16,6 @@ password minimal 8 karakter
 
 saat tidak centang ingat saya, cookie tidak dibuat 
 ![Screenshot (108)](https://user-images.githubusercontent.com/50415187/143098762-495f6cd4-86ae-4825-a33f-62537bc0aefd.png)
+
+saat centang ingat saya, cookie dibuat dan sudah dienkripsi
+![Screenshot (110)](https://user-images.githubusercontent.com/50415187/143098854-7ac2e3dc-c489-47a8-950f-36ba5bb362b0.jpg)
