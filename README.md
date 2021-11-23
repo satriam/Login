@@ -11,5 +11,6 @@ tampilan register responsive untuk mobile
 tampilan login responsive untuk mobile
 ![Screenshot (106)](https://user-images.githubusercontent.com/50415187/143098015-7c210bca-5716-4f63-9e72-2a8cbd6ca800.png)
 
-
+password minimal 8 karakter
+![Screenshot (107)](https://user-images.githubusercontent.com/50415187/143098515-ca5c036b-c2c6-4ad0-a28c-87feba97964e.png)
 
