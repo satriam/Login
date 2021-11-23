@@ -14,3 +14,5 @@ tampilan login responsive untuk mobile
 password minimal 8 karakter
 ![Screenshot (107)](https://user-images.githubusercontent.com/50415187/143098515-ca5c036b-c2c6-4ad0-a28c-87feba97964e.png)
 
+saat tidak centang ingat saya, cookie tidak dibuat 
+![Screenshot (108)](https://user-images.githubusercontent.com/50415187/143098762-495f6cd4-86ae-4825-a33f-62537bc0aefd.png)
